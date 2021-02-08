@@ -1,0 +1,32 @@
+Importer Log Report
+Project : Adafruit STEMMA Speaker.PrjPcb
+
+Section : Analyze Document - C:\Users\Kevin Qiao\Downloads\Adafruit-STEMMA-Speaker-PCB-master\Adafruit STEMMA Speaker.brd
+    Analyzing data of C:\Users\Kevin Qiao\Downloads\Adafruit-STEMMA-Speaker-PCB-master\Adafruit STEMMA Speaker.brd
+    Load settings
+    Load layers 175
+    Load board
+    Load Library "microbuilder"
+    Load Packages 13
+    Load Library "silks"
+    Load Packages 1
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\Kevin Qiao\Downloads\Adafruit-STEMMA-Speaker-PCB-master\Adafruit STEMMA Speaker.sch
+    Analyzing data of C:\Users\Kevin Qiao\Downloads\Adafruit-STEMMA-Speaker-PCB-master\Adafruit STEMMA Speaker.sch
+    Load settings
+    Load layers 175
+    Load schematic
+    Load Libraries 1
+    Load Library "microbuilder"
+    Load Packages 43
+    Load Symbols 14
+    Load DeviceSets 12
+    Load Attributes 3
+    Load Classes 2
+    Load Parts 25
+    Load Sheets 1
+    ERROR: Unhandled type <errors>
+EndSection

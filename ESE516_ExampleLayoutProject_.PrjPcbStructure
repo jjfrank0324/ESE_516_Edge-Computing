@@ -1,0 +1,13 @@
+Record=TopLevelDocument|FileName=MAIN.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_3V3Buck|SchDesignator=U_3V3Buck|FileName=Own3V3BUCK.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Own3V3BUCK.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_AudioAmp|SchDesignator=U_AudioAmp|FileName=AudioAmp.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=AudioAmp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_FTDI|SchDesignator=U_FTDI|FileName=FTDI.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=FTDI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_JOYSTICK|SchDesignator=U_JOYSTICK|FileName=joystick.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=joystick.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_Memory|SchDesignator=U_Memory|FileName=Memory.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=3V3_BUCK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=6V Boost - High Current.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=6v_BOOST.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=CommonComponents.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=Humidtemp.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=LiPo_Charger.SchDoc|SheetNumber= 
