@@ -480,23 +480,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OUHHOMFR
 
 [Document27]
-DocumentPath=CommonComponents.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ANTAGUIF
-
-[Document28]
 DocumentPath=Library\Components - 01.02.21 - 21.11.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=Library\Components - 01.02.21 - 21.11.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOSDNEIM
 
-[Document30]
+[Document29]
 DocumentPath=Library\S4B-PH-SM4-TB_LF_SN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIRAXPIQ
 
-[Document31]
+[Document30]
 DocumentPath=Library\S4B-PH-SM4-TB(LF)(SN).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCRMYUWA
 
-[Document32]
+[Document31]
 DocumentPath=joystick.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PZMSUDQG
 
-[Document33]
+[Document32]
 DocumentPath=Own3V3BUCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
