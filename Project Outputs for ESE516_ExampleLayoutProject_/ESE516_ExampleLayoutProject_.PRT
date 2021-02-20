@@ -1,0 +1,112 @@
+0.1" Pad            TP1                 PCBComponent        000     000     0
+0.1" Pad            TP10                PCBComponent        000     000     0
+0.1" Pad            TP11                PCBComponent        000     000     0
+0.1" Pad            TP12                PCBComponent        000     000     0
+0.1" Pad            TP13                PCBComponent        000     000     0
+0.1" Pad            TP14                PCBComponent        000     000     0
+0.1" Pad            TP15                PCBComponent        000     000     0
+0.1" Pad            TP16                PCBComponent        000     000     0
+0.1" Pad            TP17                PCBComponent        000     000     0
+0.1" Pad            TP18                PCBComponent        000     000     0
+0.1" Pad            TP19                PCBComponent        000     000     0
+0.1" Pad            TP2                 PCBComponent        000     000     0
+0.1" Pad            TP20                PCBComponent        000     000     0
+0.1" Pad            TP21                PCBComponent        000     000     0
+0.1" Pad            TP22                PCBComponent        000     000     0
+0.1" Pad            TP23                PCBComponent        000     000     0
+0.1" Pad            TP24                PCBComponent        000     000     0
+0.1" Pad            TP3                 PCBComponent        000     000     0
+0.1" Pad            TP4                 PCBComponent        000     000     0
+0.1" Pad            TP5                 PCBComponent        000     000     0
+0.1" Pad            TP6                 PCBComponent        000     000     0
+0.1" Pad            TP7                 PCBComponent        000     000     0
+0.1" Pad            TP8                 PCBComponent        000     000     0
+0.1" Pad            TP9                 PCBComponent        000     000     0
+100K 1%             R46                 RESC0603(1608)_N    000     000     0
+100K 1%             R47                 RESC0603(1608)_N    000     000     0
+100nF 16V           C1                  CAPC0603(1608)100_N 000     000     0
+100nF 16V           C18                 CAPC0603(1608)100_N 000     000     0
+100nF 16V           C20                 CAPC0603(1608)100_N 000     000     0
+100nF 16V           C22                 CAPC0603(1608)100_N 000     000     0
+100nF 16V           C3                  CAPC0603(1608)100_N 000     000     0
+100nF 16V           C7                  CAPC0603(1608)100_N 000     000     0
+100R 1%             R12                 RESC0603(1608)_N    000     000     0
+100R 1%             R19                 RESC0603(1608)_N    000     000     0
+100R 1%             R27                 RESC0603(1608)_N    000     000     0
+100R 1%             R35                 RESC0603(1608)_M    000     000     0
+100R 1%             R37                 RESC0603(1608)_M    000     000     0
+104031-0811         SD1                 MOLX-104031-0811_V  000     000     0
+10K 1%              R11                 RESC0603(1608)_N    000     000     0
+10K 1%              R18                 RESC0603(1608)_N    000     000     0
+10K 1%              R20                 RESC0603(1608)_N    000     000     0
+10K 1%              R21                 RESC0603(1608)_N    000     000     0
+10K 1%              R26                 RESC0603(1608)_N    000     000     0
+10K 1% 0603(1608)   R13                 RESC0603(1608)_N    000     000     0
+10K 1% 0603(1608)   R14                 RESC0603(1608)_N    000     000     0
+10nF 16V            C2                  CAPC0603(1608)100_N 000     000     0
+10uF 16V            C10                 CAPC0805(2012)145_N 000     000     0
+18pF 16V            C13                 CAPC0603(1608)100_N 000     000     0
+18pF 16V            C14                 CAPC0603(1608)100_N 000     000     0
+1K 1%               R3                  RESC0603(1608)_N    000     000     0
+1K 1%               R5                  RESC0603(1608)_N    000     000     0
+1K 1%               R7                  RESC0603(1608)_N    000     000     0
+1K1 1%              R22                 RESC0603(1608)_N    000     000     0
+1K1 1%              R23                 RESC0603(1608)_N    000     000     0
+1K1 1%              R25                 RESC0603(1608)_N    000     000     0
+1K1 1%              R6                  RESC0603(1608)_N    000     000     0
+1uF 16V             C12                 CAPC0603(1608)100_N 000     000     0
+1uF 16V             C16                 CAPC0603(1608)100_N 000     000     0
+1uF 16V             C17                 CAPC0603(1608)100_N 000     000     0
+1uF 16V             C21                 CAPC0603(1608)100_N 000     000     0
+1uF 16V             C23                 CAPC0603(1608)100_N 000     000     0
+2 axis joystick     U2                  PCBComponent_1      000     000     0
+20021111-00010T4LF  U3                  20021111-00010T4LF  000     000     0
+27R 1%              R1                  RESC0603(1608)_N    000     000     0
+27R 1%              R10                 RESC0603(1608)_N    000     000     0
+27R 1%              R2                  RESC0603(1608)_N    000     000     0
+27R 1%              R8                  RESC0603(1608)_N    000     000     0
+27R 1%              R9                  RESC0603(1608)_N    000     000     0
+2K2 1%              R41                 RESC0603(1608)_L    000     000     0
+2K2 1%              R42                 RESC0603(1608)_L    000     000     0
+4.7uF 16V           C4                  CAPC0805(2012)145_N 000     000     0
+4.7uF 16V           C9                  CAPC0805(2012)145_N 000     000     0
+40x100mm            FD1                 Fiducial_FT         000     000     0
+40x100mm            FD2                 Fiducial_FT         000     000     0
+40x100mm            FD3                 Fiducial_FT         000     000     0
+453K 1%             R39                 RESC0603(1608)_N    000     000     0
+470nH 15mohm        L4                  INDPM3630X150N      000     000     0
+47pF 16V            C5                  CAPC0603(1608)100_N 000     000     0
+47pF 16V            C6                  CAPC0603(1608)100_N 000     000     0
+53047-0210          J3                  FP-53047-0210-MFG   000     000     0
+ABS07-32.768KHz-T   X1                  ABRA-ABS07-2_V      000     000     0
+B4B-PH-K-S(LF)(SN)  P1                  JST-B4B-PH-K-S_V    000     000     0
+B4B-PH-K-S(LF)(SN)  P2                  JST-B4B-PH-K-S_V    000     000     0
+BLM21PG221SN1D      FB1                 MURA-BLM21-B20-CHIP 000     000     0
+CAP 100nF 16V 0603( C15                 CAPC0603(1608)100_N 000     000     0
+CAP 10uF            C19                 CAPC0805(2012)145_N 000     000     0
+CAP 10uF 16V        C11                 CAPC0805(2012)145_N 000     000     0
+CAP 120pF           C8                  CAPC0603(1608)100_N 000     000     0
+CAP 22uF            C46                 CAPC0805(2012)100_L 000     000     0
+FT234XD-R           U1                  DFN-12_V            000     000     0
+Jumper              R15                 RESC0603(1608)_N    000     000     0
+Jumper              R16                 RESC0603(1608)_N    000     000     0
+Jumper              R17                 RESC0603(1608)_N    000     000     0
+Jumper              R24                 RESC0603(1608)_N    000     000     0
+Jumper              R4                  RESC0603(1608)_N    000     000     0
+Jumper              R43                 RESC0603(1608)_N    000     000     0
+Jumper              R44                 RESC0603(1608)_N    000     000     0
+Jumper              R45                 RESC0603(1608)_N    000     000     0
+LTST-C170CKT        D5                  LTST-C170CKT_V      000     000     0
+LTST-C170GKT        D8                  LTST-C170GKT_V      000     000     0
+LTST-C191KGKT       DS1                 LITE-ON-LTST-C191KR 000     000     0
+PAM8302AASCR        U9                  FP-MSOP-8-MFG       000     000     0
+PRTR5V0U2X,215      D1                  NXP-SOT143B-4_V     000     000     0
+PTS810 SJK 250 SMTR B1                  PTS810 SJK 250 SMTR 000     000     0
+PTS810 SJK 250 SMTR B2                  PTS810 SJK 250 SMTR 000     000     0
+PTS810 SJK 250 SMTR B3                  PTS810 SJK 250 SMTR 000     000     0
+RASM722PTR13X       J4                  FP-RASM722PTR13X-MF 000     000     0
+SAMW25H18-MR510PB   U4                  SAMW25H18-MR510PB   000     000     0
+SHTC3               U11                 FP-SHTC3-MFG        000     000     0
+TC33X-2-102E        R36                 TRIM_TC33X-2-102E   000     000     0
+TPS62827DMQR        U10                 TPS62827DMQR        000     000     0
+ZX62R-B-5P          J1                  HIRO-ZX62R-B-5P_V   000     000     0

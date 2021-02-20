@@ -603,6 +603,14 @@ Variation13=Designator=TP10|UniqueId=\OSLTIIAV\KPEGWKOG|Kind=1|AlternatePart=
 Variation14=Designator=TP11|UniqueId=\OSLTIIAV\MOEIAXXC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\ESE516_ExampleLayoutProject_.NET
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\ESE516_ExampleLayoutProject_.PRT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -628,6 +636,8 @@ OutputName2=Calay Netlist
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
 OutputType3=EDIF
 OutputName3=EDIF for PCB
 OutputDocumentPath3=
