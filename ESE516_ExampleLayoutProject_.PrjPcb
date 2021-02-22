@@ -604,10 +604,14 @@ Variation14=Designator=TP11|UniqueId=\OSLTIIAV\MOEIAXXC|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\ESE516_ExampleLayoutProject_.NET
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Design Rule Check - ESE516_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\ESE516_ExampleLayoutProject_.NET
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\ESE516_ExampleLayoutProject_.PRT
 DItemRevisionGUID=
 
