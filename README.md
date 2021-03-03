@@ -10,6 +10,8 @@ Jiahong Ji, Chengyang Xi
 | MAIN.SchDoc                  | The Main schematic of the whole project     | schematic  |
 | ESE516_ExampleProject.BomDoc | The Main BOM for the whole Project          | BOM        |
 | ESE516_PCB.PcbDoc            | The Main PCB File for the whole project     | PcbDoc     |
+| StarterBoardAssembly.PCBDwf  | The Assembly file documaentation            | PCBDwf     |
+|StarterBoardFabrication.PCBDwf| The Fabrication file documaentation         | PCBDwf     |
 | AudioAmp.SchDoc              | Subsystem: Audio Amplifier                  | schematic  |
 | Memory.SchDoc                | Subsystem: SD card                          | schematic  |
 | MCU.SchDoc                   | Subsystem: MCU and perphirial components    | schematic  |
