@@ -18,3 +18,6 @@ Jiahong Ji, Chengyang Xi
 | FTDI.SchDOc                  | Subsystem: The FTDI chip                    | schematic  |
 | joystick.SchDoc              | Subsystem: The thumbstick                   | schematic  |
 | Own3V3BUCK.SchDoc            | Subsystem: The 3.3V voltage buck schematic  | schematic  |
+
+
+## Fabrication File Folder -> Project Outputs for ESE516_ExampleLayoutProject 
