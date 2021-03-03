@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for ESE516_ExampleLayoutProject_
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -606,15 +606,91 @@ Variation14=Designator=TP11|UniqueId=\OSLTIIAV\MOEIAXXC|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Design Rule Check - ESE516_PCB.html
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\BOM\Bill of Materials-ESE516_ExampleProject(Build_Alt).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\ESE516_ExampleLayoutProject_.NET
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Design Rule Check - ESE516_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\ESE516_ExampleLayoutProject_.NET
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\ESE516_ExampleLayoutProject_.PRT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\NC Drill\ESE516_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\NC Drill\ESE516_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Gerber\ESE516_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\NC Drill\ESE516_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Pick Place\Pick Place for ESE516_PCB(Build_Alt).txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -626,6 +702,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for ESE516_ExampleLayoutProject_
 
 [OutputGroup1]
 Name=Netlist Outputs
